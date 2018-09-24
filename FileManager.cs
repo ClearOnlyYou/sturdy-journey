@@ -6,8 +6,8 @@ using System.IO;
 using System.Reflection;
 using System.Linq;
 /// 作用：文件读取加载
-/// Author:Jxw
-/// Time:2015/10/22
+/// Author:Zh
+/// Time:2018/04/27
 
 
 #if UNITY_EDITOR 
